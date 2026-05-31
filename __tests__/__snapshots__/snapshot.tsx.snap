@@ -24,6 +24,11 @@ exports[`renders homepage unchanged 1`] = `
           pages/index.js
         </code>
       </p>
+      <p
+        class="description"
+      >
+        Chào mừng Jay Cao
+      </p>
       <div
         class="grid"
       >
